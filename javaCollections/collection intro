@@ -1,0 +1,33 @@
+Question- what is collections in java?
+Answer- Java Collection is a framework  in which java itself built 
+some important Data Structures, which are very highly optimised.
+its makes easier to implement these Data Structure in our programme,
+ Java Collection include interfaces like (List, map etc) and Classes to 
+ implement these interfaces Like (ArrayList, Stack and queue etc)
+ 
+ List Interface--
+ 1- ArrayList
+ 2-Linked List
+ 3- Vector
+ 4- stack
+ 
+ Set Interface--               
+ 1-HashSet
+ 2- LinkedHashSet
+ 
+ Queue Interface--
+ 1-Priority Queue
+ 2-Dequeue
+ 3- ArrayDequeue
+ 
+ #Sorted Set
+ 1-TreeSet
+ 
+ 
+ 
+ #Arrays and its methods in Collection
+1-- int binarySearch(int array[ ], int value)--> perform  binary search
+2--The copyOf( )--> returns copy of array
+3--static boolean[ ] copyOfRange(boolean[ ] source, int start, int end)---> return copy in range
+4--boolean equals(char array1[ ], char array2[ ])-- compare two array 
+5-- sort(int array[ ], int start, int end)--> sort started to begning
